@@ -2,11 +2,12 @@
 Wild Oasis, is a dashboard application for renting hostels and villas that made using react and vite. The interface is built using styled-css and react hot-toast. It can monitor, book, user that who renting the service, and the check-in-out of hostels and villas. Real-time availability updates, secure payment options, and detailed property descriptions.
 <hr/>
 
-![Pic1_wildOasis]
-![Pic2_wildOasis]
-![Pic3_wildOasis]
-![Pic4_wildOasis]
-![Pic5_wildOasis]
+![Pic1_wildOasis](https://github.com/krisnacp/dashboardWildOasis/assets/73422884/de038f13-0fba-48dc-b4b2-ee8c3948170b)
+![Pic2_wildOasis](https://github.com/krisnacp/dashboardWildOasis/assets/73422884/83aedb8c-f907-46c2-87fd-7d3d5d5fbec1)
+![Pic3_wildOasis](https://github.com/krisnacp/dashboardWildOasis/assets/73422884/945e2861-51da-45d0-9345-964a8aea785c)
+![Pic4_wildOasis](https://github.com/krisnacp/dashboardWildOasis/assets/73422884/d79ab64e-a3f3-4358-aa34-6abcc677ff95)
+![Pic5_wildOasis](https://github.com/krisnacp/dashboardWildOasis/assets/73422884/cfad83a0-98cc-4c8b-8d26-b84df383d9ed)
+
 
 <hr/>
 
